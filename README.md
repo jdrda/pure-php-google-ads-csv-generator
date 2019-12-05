@@ -1,7 +1,7 @@
-[![License](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/license)](https://packagist.org/packages/jan-drda/pure-php-xml-writer)
-[![Latest Stable Version](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/v/stable)](https://packagist.org/packages/jan-drda/pure-php-xml-writer)
-[![Total Downloads](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/downloads)](https://packagist.org/packages/jan-drda/pure-php-xml-writer)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jdrda/pure-php-google-ads-csv-generator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jdrda/pure-php-xml-writer/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/jdrda/pure-php-xml-writer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jdrda/pure-php-xml-writer/build-status/master)
+[![License](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/license)](https://packagist.org/packages/jan-drda/pure-php-google-ads-csv-generator)
+[![Latest Stable Version](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/v/stable)](https://packagist.org/packages/jan-drda/pure-php-google-ads-csv-generator)
+[![Total Downloads](https://poser.pugx.org/jan-drda/pure-php-google-ads-csv-generator/downloads)](https://packagist.org/packages/jan-drda/pure-php-google-ads-csv-generator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jdrda/pure-php-google-ads-csv-generator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jdrda/pure-php-google-ads-csv-generator/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/jdrda/pure-php-google-ads-csv-generator/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jdrda/pure-php-google-ads-csv-generator/build-status/master)
 
 # Simple Google Ads CSV Generator
 Simple XML writer library written with basic PHP functions only. The main purpose of this project is generating Google Ads dynamicaly from application, but without API required.
