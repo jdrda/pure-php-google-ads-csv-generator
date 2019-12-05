@@ -1,0 +1,28 @@
+{
+    "name": "jan-drda/pure-php-google-ads-csv-generator",
+    "description": "Simple library for generating Google Ads CSV files for campaign management.",
+    "type": "library",
+    "keywords": ["google ads", "csv", "csv generator", "google ads generator"],
+    "homepage": "https://github.com/jdrda/pure-php-google-ads-csv-generator",
+    "readme": "https://github.com/jdrda/pure-php-google-ads-csv-generator/blob/master/README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Drda",
+            "email": "jdrda@outlook.com",
+            "homepage": "https://jdrda.tk",
+            "role": "chief developer"
+        }
+    ],
+    "support": {
+        "email": "jdrda@outlook.com",
+        "issues": "https://github.com/jdrda/pure-php-google-ads-csv-generator/issues",
+        "wiki": "https://github.com/jdrda/pure-php-google-ads-csv-generator/wiki"
+    },
+    "autoload": {
+        "psr-4": {
+            "PurePhpGoogleAdsCsvGenerator\\": "source/"
+        }
+    },
+    "require": {}
+}
